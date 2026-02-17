@@ -1,5 +1,5 @@
 # Cyber-Threat-Intelligence-Assignment1
 This program loads a cybersecurity dataset and finds all attack techniques. It gives each technique a score based on dangerous keywords like credential, privilege, remote, and bypass. Higher score means the threat is more dangerous. Then the program sorts the techniques from highest score to lowest score. This helps cybersecurity analysts easily identify and investigate the most critical threats first.
 
-How does my scoring system help a cybersecurity analyst prioritize threats?
+#How does my scoring system help a cybersecurity analyst prioritize threats?
 My scoring system helps a cybersecurity analyst by giving higher scores to more dangerous attack techniques. It checks important keywords like credential access, privilege escalation, remote access, and bypass, which indicate serious threats. Techniques with higher scores are more risky and need immediate attention. By sorting the techniques based on score, the analyst can quickly identify and focus on the most critical threats first. This saves time and helps improve security response.
